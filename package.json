@@ -1,0 +1,23 @@
+{
+  "name": "themer-i3",
+  "version": "1.0.0",
+  "description": "i3 template for themer.",
+  "main": "src/index.js",
+  "repository": "https://github.com/dtkerr/themer-i3",
+  "author": "Terry Kerr",
+  "license": "MPL-2.0",
+  "private": false,
+  "scripts": {
+    "lint": "eslint src"
+  },
+  "devDependencies": {
+    "eslint": "^5.0.1"
+  },
+  "keywords": [
+    "colorscheme",
+    "themer",
+    "theme",
+    "sway",
+    "i3"
+  ]
+}
